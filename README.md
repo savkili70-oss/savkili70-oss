@@ -1,6 +1,6 @@
 # Merhaba, ben Abdullah Şavkılı 👋
 
-Maraşlıyım (1999, Kahramanmaraş). Kahramanmaraş Sütçü İmam Üniversitesi **Bilgisayar Programcılığı** programında eğitim aldım.
+Maraşlıyım (1999, Kahramanmaraş). Kahramanmaraş Sütçü İmam Üniversitesi **Bilgisayar Programcılığı** mezunuyum; şu an açıköğretimde **Yapay Zekâ** okuyorum.
 **Enerjisa Üretim**'de Sağlık ve Esenlik alanında çalışıyorum; boş zamanlarımda **SVKL Studio** adıyla mobil oyun ve yapay zekâ projeleri geliştiriyorum.
 
 ## 🎮 SVKL Studio: mobil oyunlar
